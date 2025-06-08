@@ -1,5 +1,5 @@
 //learn. about datatypes
-"use strict" ;
+"use strict" ; //use new form od javascript
 
 // alert(3+3)   // not in node but in browser
 
@@ -10,7 +10,7 @@ let age = 23 ; //number //bigint
 //undefined
 //symbol =>uniqueness
 // objejct 
-//
+//NaN
 
 console.log(typeof 4);
 console.log(typeof null); //object type
